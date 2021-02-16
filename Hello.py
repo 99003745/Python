@@ -1,0 +1,1 @@
+print("pawry ho rahi hai")
